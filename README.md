@@ -113,3 +113,9 @@ if result["status"] == "ok":
 else:
     print("Export failed:", result["error_message"])
 ```
+
+---
+
+## Sequence Diagram
+
+![Export Microservice Sequence Diagram](./UML%20export.png)
